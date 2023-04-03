@@ -12,6 +12,6 @@
 
 3. Mire jó a fork?
 - klónozza a repositoryt lokális repositoryba
-- saját repositoryt hoz létre a saját felhasználónkba
+- saját repositoryt hoz létre meglévőből a saját felhasználónkba
 - Feltölti a lokális repositoryt githubra
 - Törli a repositoryt
